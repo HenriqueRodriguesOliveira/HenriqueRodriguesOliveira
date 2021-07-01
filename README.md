@@ -3,7 +3,7 @@
   <br>
   
   <a href="https://github.com/Krissafff">
-  <img height="150em" align="align" src="https://media1.tenor.com/images/a6db0966282e6d21514f305b0c9e6f63/tenor.gif?itemid=12815749"/>
+  <img height="150em" align="middle" src="https://media1.tenor.com/images/a6db0966282e6d21514f305b0c9e6f63/tenor.gif?itemid=12815749"/>
   <br/>
   <img height="150em"   align="center"
   src="https://github-readme-stats.vercel.app/api?username=Krissafff&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
