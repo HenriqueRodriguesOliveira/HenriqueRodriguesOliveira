@@ -3,9 +3,9 @@
   <br>
   
   <a href="https://github.com/Krissafff">
-  <img height="140em"   align="center"
+  <img height="150em"   align="center"
   src="https://github-readme-stats.vercel.app/api?username=Krissafff&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="140em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krissafff&layout=compact&hide=shell&theme=merko"/>
+  <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krissafff&layout=compact&hide=shell&theme=merko"/>
   
   </br>
   <br/>
