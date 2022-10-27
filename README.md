@@ -1,4 +1,9 @@
-  <h1> Oi!! Meu nome é Henrique. </h1>
+  #<h1> Hi, my name is Henrique! 😁🖖 </h1>
+  
+  Se você contar sua ideia para 10 pessoas e 9 delas disser que você está maluco, provavelmente você está fazendo algo inovador. 🗿🍷
+  
+  <br>
+  Olá, seja bem vindo ao meu GitHub! No meu repositório você encontrará diversos projetos, onde eu coloquei todo o meu esforço para sempre entregar o melhor. Sou um desenvolvedor fullstack, aprimorando e desenvolvendo a minha paixão pelo Front-end
   
   <br>
   
