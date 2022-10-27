@@ -1,39 +1,43 @@
-  <h1> Hi, my name is Henrique! 😁🖖 </h1>
+ <img align="right" height="700em" src="https://user-images.githubusercontent.com/79226722/198369980-c72b5d6a-eb0a-42cb-8c8e-c4ffb06412a8.png"/>
+
+  <h1> Hi, I'm Henrique Rodrigues 😁🖖 </h1>
   
-  Se você contar sua ideia para 10 pessoas e 9 delas disser que você está maluco, provavelmente você está fazendo algo inovador. 🗿🍷
-  
-  <br>
-  Olá, seja bem vindo ao meu GitHub! No meu repositório você encontrará diversos projetos, onde eu coloquei todo o meu esforço para sempre entregar o melhor. Sou um desenvolvedor fullstack, aprimorando e desenvolvendo a minha paixão pelo Front-end
-  
+  "Se você contar sua ideia para 10 pessoas e 9 delas disser que você está maluco, provavelmente você está fazendo algo inovador." 🗿🍷
+
+
+  Olá, seja bem vindo ao meu GitHub! No meu repositório você encontrará diversos projetos, onde eu coloquei todo o meu esforço para sempre entregar o melhor. Sou um desenvolvedor fullstack, aprimorando e desenvolvendo a minha paixão pelo Front-end.
   <br>
   
   <a href="https://github.com/Krissafff">
-  <img height="150em" align="middle" src="https://media1.tenor.com/images/a6db0966282e6d21514f305b0c9e6f63/tenor.gif?itemid=12815749"/>
-  <br/>
-  <br/>
-  <img height="150em"   align="center"
-  src="https://github-readme-stats.vercel.app/api?username=Krissafff&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+
+  <div>
+  <h3>⚙ Desenvolvimento...</h3>
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krissafff&layout=compact&hide=shell&theme=merko"/>
   <br/>
-  <br/>
-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <br/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white">
-  <br/>
-  <br/>
-  <div align="center">
-  <a href="https://www.instagram.com/henrique_r74/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henrique-rodrigues-1937451a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
+  
+  <div>
+  <h3>🧑‍💻 Skills</h3>
+  <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
+  <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'/>
+  <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/>
+  <img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white'/>
+  <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
+  <img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white'/>
+  </div>
+  
+  
+  
+  <div>
+  <h3>Redes Sociais</h3>
+  <p> Acompanhe meus projetos que posto diaramente no Instagram e Linkedin!</p>
+  <a href="https://www.instagram.com/hen_fitdev/"> <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'/></a>
+  <a href="https://www.instagram.com/hen_fitdev/"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+  </div>
+
  
