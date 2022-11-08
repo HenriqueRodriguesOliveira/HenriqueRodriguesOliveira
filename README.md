@@ -1,4 +1,4 @@
- <img align="right" height="700em" src="https://user-images.githubusercontent.com/79226722/198369980-c72b5d6a-eb0a-42cb-8c8e-c4ffb06412a8.png"/>
+ <img align="right" height="700em" src="https://user-images.githubusercontent.com/79226722/200620439-8d062341-1db3-4cd5-b2fe-2ba02cdaf812.png"/>
 
   <h1> Hi, I'm Henrique Rodrigues 😁🖖 </h1>
   
@@ -13,7 +13,7 @@
 
   <div>
   <h3>⚙ Desenvolvimento...</h3>
-  <img height="150em" align="center" src="https://user-images.githubusercontent.com/79226722/200620439-8d062341-1db3-4cd5-b2fe-2ba02cdaf812.png"/>
+  <img height="150em" align="center" src=""/>
   <br/>
   </div>
   
