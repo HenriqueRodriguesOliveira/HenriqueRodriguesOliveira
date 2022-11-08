@@ -10,9 +10,10 @@
   
   <a href="https://github.com/Krissafff">
 
+
   <div>
   <h3>⚙ Desenvolvimento...</h3>
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krissafff&layout=compact&hide=shell&theme=merko"/>
+  <img height="150em" align="center" src="https://user-images.githubusercontent.com/79226722/200620439-8d062341-1db3-4cd5-b2fe-2ba02cdaf812.png"/>
   <br/>
   </div>
   
