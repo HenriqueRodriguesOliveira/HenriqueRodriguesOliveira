@@ -137,12 +137,12 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/henrique-rodrig
 
 ## Status
 
-<a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+<a href="https://github.com/Krissafff" title="ilustração do mapeamento de linguagens">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krissafff&theme=transparent&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
 
-<a href="https://github.com/Gurupreet" title="ilustração do mapeamento do perfil">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+<a href="https://github.com/Krissafff" title="ilustração do mapeamento do perfil">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Krissafff&show_icons=true&theme=transparent&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
 [website]: https://codedev.ga/
