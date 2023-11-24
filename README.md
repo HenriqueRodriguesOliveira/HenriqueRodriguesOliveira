@@ -7,7 +7,7 @@ Sou apaixonado por desenvolvimento web e mobile, tenho o objetivo de estudar os 
 <img align="right" width="300" src="https://media.giphy.com/media/RkDZq0dhhYHhxdFrJB/giphy.gif" />
 
 ```kotlin
-object **SEU NOME** {
+object Henrique {
  val name = "Henrique Rodrigues Oliveira"
  val acknowledgements = "Desenvolvedor Full Stack"
 
