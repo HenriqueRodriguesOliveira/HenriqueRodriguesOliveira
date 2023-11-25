@@ -153,7 +153,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/henrique-rodrig
 
 <br>
 
-## Rede sociais
+## Rede sociais...
 
 🏡 [Website][https://portfolio-five-pied-59.vercel.app/] **|**
 🐦 [Twitter][twitter] **|**
