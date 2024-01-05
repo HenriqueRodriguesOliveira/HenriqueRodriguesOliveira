@@ -156,7 +156,4 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/henrique-rodrig
 ## Rede sociais...
 
 🏡 [Website][https://portfolio-five-pied-59.vercel.app/] **|**
-🐦 [Twitter][twitter] **|**
-📺 [Youtube][youtube] **|**
-📷 [Instagram][instagram] **|**
 👔 [LinkedIn][https://www.linkedin.com/in/henrique-rodriguesoliveira/]
