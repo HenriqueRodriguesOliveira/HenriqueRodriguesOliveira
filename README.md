@@ -1,6 +1,12 @@
 # Olá, sejam bem vindos!!! 👋
 
-Tenho como objetivo de estudar os melhores métodos praticados para evoluir cada vez mais nos meus projetos.
+Este é o lugar onde eu abro código e quebro coisas.🤣
+
+* 🔭  Atualmente estou trabalhando como Freelancer em Front-end.😉
+* 🌱  Atualmente estou aprendendo Java.
+* 💬  Pergunte-me sobre qualquer coisa relacionada a Javascript/Typescript/React-Native/Firebase & React.js.
+* 👨‍💻  Veja mais sobre meus projetos em https://portfolio-five-pied-59.vercel.app/
+* ⚡  Curiosidade: I ❤️ 🐶s e Video Games(enshrouded).
 
 ## Mais sobre mim
 
@@ -9,10 +15,10 @@ Tenho como objetivo de estudar os melhores métodos praticados para evoluir cada
 ```kotlin
 object Henrique {
  val name = "Henrique Rodrigues Oliveira"
- val acknowledgements = "Desenvolvedor Full Stack"
+ val acknowledgements = "Desenvolvedor Full-Stack"
 
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("JavaScript", "React Native", "Firebase", "Node.js", "Tailwind")
+ val languages = listOf("JavaScript", "React-Native", "Firebase", "TypeScript", "Node.js", "Styled-components" "Restyle")
 
 }
 ```
@@ -80,80 +86,7 @@ object Henrique {
     src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white"
     alt="Logo Wordpress"/></code>
 
-### Experiência de trabalho
-
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-[<img align="left" height="94px" width="94px" alt="Unibangalos" src="https://github.com/Krissafff/Krissafff/assets/79226722/32fc8c3a-5c91-4c92-82cc-a97ce2108633"/>](https://unibangalos.com/)
-
-**Front-end (Freelancer)** \
-[**Uni'bangalos**](https://unibangalos.com/) • Contract \
-Linguagens & Tecnologias: `Wordpress`, `Php`, `JavaScript`, `Css`\
-Projetos em destaque: [Site](https://unibangalos.com/)
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Credcesta" src="https://github.com/Krissafff/Krissafff/assets/79226722/40d37abb-0e7f-4075-9e69-5e1a2ed89cb1"/>](https://lojasconcred.com.br/)
-
-**Front-end (Freelancer)** \
-[**Credcesta**](https://lojasconcred.com.br/) • Contract \
-Linguagens & Tecnologias: `React`, `JavaScript`, `Html`, `Css`\
-Projetos em destaque: [Site](https://lojasconcred.com.br/)
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Luciano Cavalcante Imobiliária" src="https://github.com/Krissafff/Krissafff/assets/79226722/eef59490-39d5-47fa-9353-928f11348ffc"/>](https://cidadecauype.com.br/)
-
-**Front-end (Freelancer)** \
-[**Luciano Cavalcante Imobiliária**](https://cidadecauype.com.br/) • Contract \
-Linguagens & Tecnologias: `Wordpress`, `Php`, `JavaScript`, `Html`, `Css`, `Joomla`\
-Projetos em destaque: [Site](https://cidadecauype.com.br/)
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Explofort" src="https://github.com/Krissafff/Krissafff/assets/79226722/66273cb5-0147-42d2-8b3b-6e68d5a576d4"/>](https://www.spacex.com/)
-
-**Mobile Developer (Freelancer)** \
-[**ExploFort**](https://play.google.com/store/apps/details?id=com.explofortapp&pli=1) • Contract \
-Linguagens & Tecnologias: `React Native`, `JavaScript`, `TypeScript`, `Css`, `Firebase`, `Figma`\
-Projetos em destaque: [App](https://play.google.com/store/apps/details?id=com.explofortapp&pli=1)
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Oficina Fortaleza" src="https://github.com/Krissafff/Krissafff/assets/79226722/a661c822-1d1b-442a-ad3a-f0b01d2fcfe2"/>](https://oficinafortaleza.com/)
-
-**Front-end Developer (Freelancer)** \
-[**Oficina Fortaleza**](https://oficinafortaleza.com/) • Contract \
-Linguagens & Tecnologias: `React`, `JavaScript`, `Html`, `Css`\
-Projetos em destaque: [Site](https://oficinafortaleza.com/)
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="SanPaolo" src="https://github.com/Krissafff/Krissafff/assets/79226722/26d2ae16-064f-47ea-88ea-8ddf99064472"/>](https://www.sanpaologelato.com.br/)
-
-**Front-end Developer (Estágio)** \
-[**SanPaolo**](https://www.sanpaologelato.com.br/) • Full-time \
-Linguagens & Tecnologias: `React`, `JavaScript`, `Html`, `Css` \
-Projetos em destaque: [Site SanPaolo](https://www.sanpaologelato.com.br/), [Site soulfun](https://soulfunsorvetes.com.br/)
-<br/>
-<br/>
-
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/henrique-rodriguesoliveira/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
-
-## Status
-
-<a href="https://github.com/HenriqueRodriguesOliveira" title="ilustração do mapeamento de linguagens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueRodriguesOliveira&theme=transparent&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
-</a>
-
-<a href="https://github.com/HenriqueRodriguesOliveira" title="ilustração do mapeamento do perfil">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=HenriqueRodriguesOliveira&show_icons=true&theme=transparent&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
-
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
-
-<br>
-
-## Rede sociais...
+* Rede sociais...
 
 🏡 [Website][https://portfolio-five-pied-59.vercel.app/] **|**
 👔 [LinkedIn][https://www.linkedin.com/in/henrique-rodriguesoliveira/]
