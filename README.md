@@ -15,7 +15,7 @@ Este é o lugar onde eu abro código e quebro coisas.🤣
 ```kotlin
 object Henrique {
  val name = "Henrique Rodrigues Oliveira"
- val acknowledgements = "Desenvolvedor Full-Stack"
+ val acknowledgements = "Desenvolvedor Front-end"
 
  val primarySkillset = "ALGUMAS HABILIDADES"
  val languages = listOf("JavaScript", "React-Native", "Firebase", "TypeScript", "Node.js", "Styled-components" "Restyle")
