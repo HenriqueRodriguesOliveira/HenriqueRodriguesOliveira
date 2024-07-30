@@ -8,21 +8,6 @@ Este é o lugar onde eu abro código e quebro coisas.🤣
 * 👨‍💻  Veja mais sobre meus projetos em https://portfolio-five-pied-59.vercel.app/
 * ⚡  Curiosidade: I ❤️ 🐶s e Video Games(enshrouded).
 
-## Mais sobre mim
-
-<img align="right" width="300" src="https://media.giphy.com/media/RkDZq0dhhYHhxdFrJB/giphy.gif" />
-
-```kotlin
-object Henrique {
- val name = "Henrique Rodrigues Oliveira"
- val acknowledgements = "Desenvolvedor Front-end"
-
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("JavaScript", "React-Native", "Firebase", "TypeScript", "Node.js", "Styled-components" "Restyle")
-
-}
-```
-
 ## Linguagens e ferramentas
 
 <code><img
