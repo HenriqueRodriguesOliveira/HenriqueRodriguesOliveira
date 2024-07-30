@@ -1,10 +1,12 @@
 # Olá, sejam bem vindos!!! 👋
+<img align="right" width="300" src="https://media.giphy.com/media/RkDZq0dhhYHhxdFrJB/giphy.gif" />
+
 
 Este é o lugar onde eu abro código e quebro coisas.🤣
 
 * 🔭  Atualmente estou trabalhando como Freelancer em Front-end.😉
 * 🌱  Atualmente estou aprendendo Java.
-* 💬  Pergunte-me sobre qualquer coisa relacionada a Javascript/Typescript/React-Native/Firebase & React.js.
+* 💬  Pergunte-me sobre qualquer coisa relacionada a Javascript/Typescript/React-Native/Firebase.
 * 👨‍💻  Veja mais sobre meus projetos em https://portfolio-five-pied-59.vercel.app/
 * ⚡  Curiosidade: I ❤️ 🐶s e Video Games(enshrouded).
 
