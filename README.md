@@ -1,11 +1,12 @@
 
-# 👋 Olá, eu sou Henrique
+<div align="center"><img src="https://github.com/user-attachments/assets/3fa7c966-3740-4c29-a26c-d22d7fd4facb" /></div>
 
-## 💼 Perfil Profissional
+<h1>👋 Olá, eu sou Henrique</h1>
+<h3>💼 Perfil Profissional</h3> 
 
 - 💻 Estudante de Programação
 - 🌱 Apaixonado por Tecnologia
-- 🎓 Cursando CoffStack / Pós-graduação POO em Java
+- 🎓 Formado em Análise e desenvolvimento de sistemas / Pós-graduação POO em Java(em andamento)
 
 ## 🚀 Habilidades
 
